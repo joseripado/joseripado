@@ -1,31 +1,40 @@
+# 👋 ¡Hola! Soy José Ripado 🚀
 
-👋 Hola, soy José Ripado 🚀
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0078D4&width=435&lines=%3E+Inicializando+perfil...;%3E+Cargando+habilidades...;%3E+Bienvenido+a+mi+GitHub" alt="Typing SVG" />
+</p>
 
-> Inicializando perfil...
-> Cargando habilidades...
-> Bienvenido a mi GitHub
+<p align="center">
+  <b>Desarrollador enfocado en Sistemas, Automatización y Cloud</b><br>
+  ⚡ Especializado en C/C++ y scripting avanzado | 🐳 Construyendo soluciones con Docker, Azure e IA
+</p>
 
+---
 
-💻 Desarrollador enfocado en sistemas, automatización y cloud⚡ Especializado en C++, C y scripting avanzado🐳 Construyendo soluciones con Docker, Azure y n8n
+## 🧠 Sobre mí
 
+- ⚙️ **Sistemas y Bajo Nivel:** Desarrollo robusto en **C** y Programación Orientada a Objetos en **C++**.
+- 🖥️ **Automatización:** Creación de scripts avanzados en **Bash / Shell scripting** y flujos de trabajo eficientes.
+- 🐳 **DevOps & Infraestructura:** Contenerización con **Docker** y despliegue de entornos Linux (Debian/Ubuntu).
+- ☁️ **Cloud Computing:** Administración e infraestructura en **Microsoft Azure**.
+- 🔗 **Integraciones e IA:** Automatización de procesos mediante **n8n** y desarrollo de soluciones basadas en LLMs y arquitecturas RAG.
 
-🧠 Sobre mí
+---
 
-🔥 Trabajo en programación orientada a objetos en C++
-⚙️ Desarrollo en C (bajo nivel)
-🖥️ Automatización con Bash / Shell scripting
-☁️ Cloud con Microsoft Azure
-🐳 Contenerización con Docker
-🔗 Automatización de procesos con n8n
+## 🛠️ Stack Tecnológico
 
+| Área | Tecnologías |
+| :--- | :--- |
+| **Lenguajes** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
+| **DevOps & Herramientas** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **Cloud & Automatización** | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) |
 
-🛠️ Stack Tecnológico
-💻 Lenguajes
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=whiten![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=whiten![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=whiten
-⚙️ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=whiten![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=whiten![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=whiten
-☁️ Cloud
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=whiten
-🐍 Actividad (Snake)
-![Snake animation](https://github.com/joseripado/joseripado/blob/output/github-contribution-grid-snake.svgn
-👀 Visitas al perfil
+---
+
+## 🚀 Proyectos Destacados
+
+> [!TIP]
+> ### 🤖 Sistema de Gestión del Conocimiento e IA (Osiris)
+> Una infraestructura completa que integra contenedores **Docker**, automatización con **n8n** y procesamiento de lenguaje natural utilizando LLMs locales y APIs de inferencia rápida para crear asistentes corporativos inteligentes y bots de Telegram.
+
+---
